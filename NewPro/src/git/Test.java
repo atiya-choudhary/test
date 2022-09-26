@@ -8,6 +8,7 @@ public class Test {
 		System.out.println("Sadiq ko bhagao .com");
 		System.out.println("heyy");
 		System.out.println("heyyyyyy");
+		System.out.println("huhu");
 		
 	}
 
